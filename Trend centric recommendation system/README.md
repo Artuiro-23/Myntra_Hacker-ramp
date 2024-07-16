@@ -1,6 +1,6 @@
 # FashionFinderMyntra - Content Based Recommendation System
 
-## Research
+## Research Environment
 In the Research environment, we collected a dataset from Kaggle. To ensure data quality, we performed essential data preprocessing tasks, including handling missing values, removing duplicates, and eliminating unnecessary HTML elements from features using regular expressions and Python. Subsequently, we created a dataframe containing only with the relevant features required for my recommendation system.
 
 To enhance text analysis, we employed the NLTK library for stemming, which aids in reducing words to their root form. Additionally, we utilized the CountVectorizer from scikit-learn to determine the frequency of occurrences for each word or token in the dataset. This step is crucial for building a content-based recommendation system.
