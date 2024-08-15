@@ -9,7 +9,6 @@ To measure the similarity between documents based on their content, we employed 
 
 After implementing the recommendation function, we saved the necessary files as pickle files using the pickle module. These files will be utilized in creating a web application in the development environment, ensuring a smooth and interactive user experience.
 
-[we invite you to explore the research environment.](https://github.com/MANMEET75/FashionFinderMyntra/blob/main/Myntra%20Fashion%20Product%20Content%20Based%20Recommendation%20System.ipynb)
 
 
 ## Development 
